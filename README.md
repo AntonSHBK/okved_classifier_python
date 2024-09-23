@@ -5,15 +5,14 @@
 ## Официальные ресурсы
 
 - Официальная страница ОКВЭД: [https://classifikators.ru/okved](https://classifikators.ru/okved)
-- Файл актуального классификатора можно скачать с сайта Росстата: [https://www.gks.ru/free_doc/new_site/business/okved2/okved-class.htm](https://www.gks.ru/free_doc/new_site/business/okved2/okved-class.htm)
 
 ## Установка
 
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/okved-classifier.git
-cd okved-classifier
+git clone https://github.com/AntonSHBK/okved_classifier_python.git
+cd okved_classifier_python
 ```
 
 ### 2. Установка зависимостей
